@@ -1,2 +1,3 @@
 Hi this is the Git session
 This is the saturday
+This is the concept of the image
